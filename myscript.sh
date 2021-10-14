@@ -136,7 +136,6 @@
 # greet "Michael" "26"
 
 
-
 #Create folder and write to a file script
 # mkdir hello
 # touch "hello/world.txt"
